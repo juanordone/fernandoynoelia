@@ -28,7 +28,7 @@ export default function Navbar() {
             </li>
             <li class="nav-item">
               <Link to={"/contacto"} class="nav-link fs-3">
-                Contancto
+                Contacto
               </Link>
             </li>
            
